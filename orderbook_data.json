@@ -1,0 +1,80 @@
+{
+  "bidOrders": [],
+  "activeOrders": {
+    "1": {
+      "limitPrice": 100,
+      "orderId": 1,
+      "username": "cao",
+      "type": "ask",
+      "size": 0,
+      "timestamp": 1745803727,
+      "orderType": "limit"
+    },
+    "2": {
+      "limitPrice": 200,
+      "orderId": 2,
+      "username": "cao",
+      "type": "ask",
+      "size": 0,
+      "timestamp": 1745803734,
+      "orderType": "limit"
+    },
+    "3": {
+      "limitPrice": 500,
+      "orderId": 3,
+      "username": "cao",
+      "type": "ask",
+      "size": 500,
+      "timestamp": 1745803741,
+      "orderType": "limit"
+    },
+    "4": {
+      "stopPrice": 200,
+      "orderId": 4,
+      "username": "cao",
+      "type": "ask",
+      "size": 0,
+      "timestamp": 1745803754,
+      "orderType": "stop"
+    },
+    "5": {
+      "limitPrice": 100,
+      "orderId": 5,
+      "username": "wu",
+      "type": "bid",
+      "size": 0,
+      "timestamp": 1745803770,
+      "orderType": "limit"
+    },
+    "6": {
+      "limitPrice": 200,
+      "orderId": 6,
+      "username": "wu",
+      "type": "bid",
+      "size": 100,
+      "timestamp": 1745803806,
+      "orderType": "limit"
+    },
+    "7": {
+      "limitPrice": 5000,
+      "orderId": 7,
+      "username": "cao",
+      "type": "ask",
+      "size": 500,
+      "timestamp": 1747045986,
+      "orderType": "limit"
+    },
+    "8": {
+      "limitPrice": 5000,
+      "orderId": 8,
+      "username": "wu",
+      "type": "bid",
+      "size": 0,
+      "timestamp": 1747046012,
+      "orderType": "limit"
+    }
+  },
+  "bidStopOrders": [],
+  "askOrders": [],
+  "askStopOrders": []
+}
